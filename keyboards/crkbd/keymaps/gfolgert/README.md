@@ -1,8 +1,8 @@
 # Chordic Keyboard Layout (42-Key)
-A chord-heavy layout built for instantaneousness.
+### _A chord-heavy layout built for instantaneousness._
 
 
-Summary: This layout heavily relies on **chording** for symbols and actions. All letters, symbols, arrow keys, media keys, and modifiers are **instantaneous** without the need for layers, hold activation, or double taps, making this layout fast and friendly for **software keyboard shortcuts and passwords**. Chord positions are intuitive and created with **mnemonics** in mind. Layers are only reserved for number keys and function keys.
+_**Summary**: This layout heavily relies on **chording** for symbols and actions. All letters, symbols, arrow keys, media keys, and modifiers are **instantaneous** without the need for layers, hold activation, or double taps, making this layout fast and friendly for **software keyboard shortcuts and passwords**. Chord positions are intuitive and created with **mnemonics** in mind. Layers are only reserved for number keys and function keys._
 
 ### Considerations
 
@@ -46,7 +46,7 @@ The modifier column is **ordered from most accessible/common keys from bottom to
 
 ### Thumb Clusters
 
-The thumbs are stronger, so **common actions are moved away from weak pinkies**. On Mac, Caps Lock on some external keyboards has a delay; either hold the chord to activate or install Karabiner to remove the delay. In this position, **Shift easily capitalizes any letter on either side of the keyboard**. Backspace, Space, and Delete – **all basic text keys are assigned to the right thumb**. They are ordered chronologically in the direction they manipulate text. The lack of Tab/Enter keys is explained in the “Control Key Chords” section.
+The thumbs are stronger, so **common actions are moved away from weak pinkies**. On Mac, Caps Lock on some external keyboards has a delay; either hold the chord to activate or install [Karabiner](https://karabiner-elements.pqrs.org/) to remove the delay. In this position, **Shift easily capitalizes any letter on either side of the keyboard**. Backspace, Space, and Delete – **all basic text keys are assigned to the right thumb**. They are ordered chronologically in the direction they manipulate text. The lack of Tab/Enter keys is explained in the “Control Key Chords” section.
 
 ### Media Keys
 
@@ -63,13 +63,14 @@ The number layer is activated by holding D+F. On the right side, the numbers are
 Access F1-12 by holding Q+W. Similar to the numbers, function keys are **ordered chronologically, top-down**. Q+W is placed so function keys can be easily paired with modifiers for keyboard shortcuts. Double-tap Q+W to activate this layer without the need to hold Q+W, Escape exits.
 
 And that’s it for layers!
+
 ------
 
-Important Note: If you’re just interested in reading the absolute basics to get started, only read the “Common Symbols” and “Common Actions” sections, then jump down to “Conclusion” 👍
+#### Important Note: If you’re just interested in reading the absolute basics to get started, only read the “Common Symbols” and “Common Actions” sections, then jump down to “Conclusion” 👍
 
 ------
 ## Symbol Chords
-All symbols are chorded with the right-hand, freeing the left-hand for modifiers. All symbols can be chorded from within the Number layer.
+_All symbols are chorded with the right-hand, freeing the left-hand for modifiers. All symbols can be chorded from within the Number layer_.
 ### Common Symbols
 
 **Period** and **Comma** chords share the general placement of their QWERTY counterparts but without leaving the home row. **Colon** and **Semicolon** are the same Period/Comma chords, but with “J” also pressed. **Apostrophe** and **Quote** are each the shape of their symbol.
@@ -80,18 +81,17 @@ All symbols are chorded with the right-hand, freeing the left-hand for modifiers
 
 
 ### Parentheses
-All parentheses chords are paired next to each other. The most common regular parentheses are placed on the home row.
+_All parentheses chords are paired next to each other. The most common regular parentheses are placed on the home row_.
 ### Shapes
-These chords reference the symbols’ shapes.
-
+_These chords reference the symbols’ shapes_.
 
 ### Intonation
-These chords reference the vocal rise/fall related to these symbols.
+_These chords reference the vocal rise/fall related to these symbols_.
 
 Words with an **Exclamation Point** drop in emphasis on the final syllable – this downward intonation is replicated by the shape of this chord. Inversely, words with a **Question Mark** have an inflection that starts low, ends high. The **Dollar Sign** symbol replicates a cash register’s sound. “Cha” starts lower while higher emphasis/tone is on “Ching!” 
 
 ### Association
-These chords create an association with how a symbol is used or the position of a previously established chord.
+_These chords create an association with how a symbol is used or the position of a previously established chord_.
 
 When addressing someone, one can use the **At Sign** or point at the person – this chord makes you point at the person you’re addressing. An **Asterisk** is used for footnotes at the bottom of a page – this chord uses the bottom row, where a footnote would be. The **Ampersand** uses the same chord as Plus, only with one less letter. Words like “an-K-H” may activate this chord. The **Hashtag** symbol looks like an Equals sign with two vertical lines – so, the Hashtag chord is made up of the Equals chord and the letter “I,” a vertical line. 
 
@@ -111,7 +111,7 @@ While **Home** and **End** are usually stacked vertically, these chords are hori
 ### Mouse Chords
 
 
-This section requires an external trackball, as the directional mouse keys take too much time and are too imprecise. I’m using the Ploopy Nano Trackball. 
+_This section requires an external trackball, as the directional mouse keys take too much time and are too imprecise. I’m using the [Ploopy Nano Trackball](https://ploopy.co/nano-trackball/)_. 
 
 
 
@@ -119,7 +119,7 @@ This section requires an external trackball, as the directional mouse keys take 
 
 ### Misc Chords
 
-**Reset** is visually represented by the line dipping and rising. Which side you use depends on which side of the keyboard is the parent. **Swap To Mac** is M+A+C, **Swap To Windows** is P+C+M+R, the only chords within the Chordic layout specific to key placements on QWERTY. The chord P+C isn’t used because quickly typing “P-C” could accidentally activate this chord. Default layout is Mac. Refer to Modifiers section for more info.
+**Reset** is visually represented by the line dipping and rising. Which side you use depends on which side of the keyboard is the parent. **Swap To Mac** is M+A+C, **Swap To Windows** is [P+C+M+R](https://en.wikipedia.org/wiki/PC_Master_Race), the only chords within the Chordic layout specific to key placements on QWERTY. The chord P+C isn’t used because quickly typing “P-C” could accidentally activate this chord. Default layout is Mac. Refer to Modifiers section for more info.
 
 ------
 ## Conclusion
@@ -128,19 +128,19 @@ And that’s Chordic! A chording-heavy layout that focuses on instantaneousness.
 
 Layouts are highly personal; what works for me may not for you. I encourage experimentation and tweaking!
 
-If you have a Corne keyboard (aka the crkbd) and want to give this a go, here are the keymap files for download to be used with QMK, or the compiled .hex file ready to be flashed onto your Corne keyboard with QMK Toolbox. The above links have the right side of the keyboard acting as the parent to the left side.
+If you have a Corne keyboard (aka the crkbd) and want to give this a go, [here are the keymap files](https://drive.google.com/drive/folders/1fFPNvJiDUrYAS6E9FuKkzGjdH7ZOdLYQ) for download to be used with QMK, or [the compiled .hex file](https://drive.google.com/file/d/1oFlFQ3RSFimabYId-VHHeJsnoYEFJ21o/view) ready to be flashed onto your Corne keyboard with QMK Toolbox. The above links have the right side of the keyboard acting as the parent to the left side.
 
-Feel free to buy me a beverage, it would be greatly appreciated. Any donations will likely go right back into supporting the keyboard-enthusiast community, as well as my own keyboard addiction.
+Feel free to [buy me a beverage](https://www.buymeacoffee.com/gfolgert), it would be greatly appreciated. Any donations will likely go right back into supporting the keyboard-enthusiast community, as well as my own keyboard addiction.
 
 ------
 ## Resources
-r/ErgoMechKeyboards
-Boardsource.xyz – Corne keyboard (I have this one), Corne low-profile keyboard.
-Ben Vallack's 'Exploring Usability' YT playlist – Wonderful videos about split keyboards.
-Designing a 36-key custom keyboard layout – Peter Jang – A solid 36-key layout with similar goals to mine, but with less emphasis on chording.
-Markstos layout – A solid 42-key layout.
-QMK Configurator – An online tool for easily creating firmware files for QMK keyboards.
-QMK Toolbox – Software that flashes firmware onto your keyboard.
-QMK Configurator – Test – Double check all characters are working properly.
-Macro Generator | QMK – Type in the chord you want, this spits out the code needed. Saved me a loads of time.
-QMK Documentation – Great resource for learning about the capabilities of QMK.
+* [r/ErgoMechKeyboards](https://www.reddit.com/r/ErgoMechKeyboards/)
+* [Boardsource.xyz](https://boardsource.xyz/) – [Corne keyboard](https://boardsource.xyz/store/5ecc0f81eee64242946c988f) (I have this one), Corne low-profile keyboard.
+* [Ben Vallack's 'Exploring Usability' YT playlist](https://www.youtube.com/watch?v=WA_GUYS8UJg&list=PLCZYyvXAdQpvysng5wxGkrnIoFtvPibXM) – Wonderful videos about split keyboards.
+* [Designing a 36-key custom keyboard layout – Peter Jang](https://peterxjang.com/blog/designing-a-36-key-custom-keyboard-layout.html) – A solid 36-key layout with similar goals to mine, but with less emphasis on chording.
+* [Markstos layout](https://github.com/markstos/qmk_firmware/blob/markstos/keyboards/crkbd/keymaps/markstos/README.md) – A solid 42-key layout.
+* [QMK Configurator](https://config.qmk.fm/#/planck/rev6/LAYOUT_ortho_4x12) – An online tool for easily creating firmware files for QMK keyboards.
+* [QMK Toolbox](https://github.com/qmk/qmk_toolbox) – Software that flashes firmware onto your keyboard.
+* [QMK Configurator – Test](https://config.qmk.fm/#/test) – Double check all characters are working properly.
+* [Macro Generator](https://codepen.io/mvaneijgen/full/LYEVQXp) | QMK – Type in the chord you want, this spits out the code needed. Saved me a loads of time.
+* [QMK Documentation](https://docs.qmk.fm/#/) – Great resource for learning about the capabilities of QMK.
