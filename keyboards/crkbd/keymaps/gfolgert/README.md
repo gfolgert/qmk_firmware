@@ -46,7 +46,7 @@ On standard keyboards, many keys require reaching, like the number keys, symbols
 ### What is a Chord?
 Chords, also known as combos or macros, are **multiple keys pressed together that result in a new action**. Chording is used in stenography and feels similar to playing chords on a piano.
 ### Considerations
-* **The learning curve** – memorizing the different chords exists, but are designed to be memorable.
+* **The learning curve** – there is memorization of the different chords, but they are designed to be memorable.
 * **The “L” key has moved** – it takes getting used to. Read why in the [“QWERTY” section](#qwerty-default).
 * **Accidental letters** – if a chord’s keys aren’t pressed together, the result may be individual characters rather than the intended chord.
 * **Accidental chords** – there are many letter pairs that appear within words. In that last sentence alone, “E” and “R” appeared together 4 times. This layout avoids using E-R as a chord and many other commonly paired letters so that typing a word with “E-R” doesn’t activate a chord’s action. This issue has not been a problem for me.
