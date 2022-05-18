@@ -49,7 +49,7 @@ Chords, also known as combos or macros, are **multiple keys pressed together tha
 * **The learning curve** – there will be chord memorization, but they are designed to be memorable.
 * **The “L” key is moved** – it takes getting used to. Read why it's been moved in the [“Arrow Keys” section](#arrow-keys).
 * **Accidental letters** – if a chord’s keys aren’t pressed together, the result may be individual characters rather than the intended chord.
-* **Accidental chords** – 
+* **Accidental chords** – if a word is being typed quickly, a chord could potentially be triggered. Chords have been chosen to avoid this problem, as mentioned in the [QWERTY section](#qwerty-default).
 * **Lighter keyboard switches** - recommended for chording multiple keys at a time, I use 50g.
 * **An external trackball is necessary for mouse directional keys** – read more in the [“Mouse Chords” section](#mouse-chords).
 * **Keyboard layouts are highly personal** – I don’t expect this to work for everyone. Experiment! 
