@@ -1,4 +1,4 @@
-# Chordic Keyboard Layout (42-Key Corne)
+# Chordic Keyboard Layout (For the 42-Key Corne/crkbd)
 ### _A chord-heavy layout built for instantaneousness_
 
 ![chordic-layout-full](./01-chordic-layout-full.png)
