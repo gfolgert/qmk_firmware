@@ -116,7 +116,7 @@ _These chords reference the symbol's individual shape_.
 ![chordic-shapes](./13-shapes.png)
 
 ### Intonation
-_These chords reference the vocal rise/fall related to these symbols_.
+_These chords reference the vocal rise and fall related to these symbols_.
 ![chordic-intonation](./14-intonation.png)
 
 Words with an **Exclamation Point** drop in emphasis on the final syllable – this downward intonation is replicated by the shape of this chord. Inversely, words with a **Question Mark** have an inflection that starts low, ends high. The **Dollar Sign** symbol replicates a cash register’s sound. “Cha” starts lower while higher emphasis/tone is on “Ching!” 
