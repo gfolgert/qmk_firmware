@@ -78,7 +78,7 @@ The modifier column is **ordered by most commonly used keys, from bottom to top*
 
 ### Thumb Clusters
 ![chordic-thumb-clusters](./06-thumb-clusters.png)
-The thumbs are strong, so **common actions are moved away from the pinkies**. On Mac, Caps Lock on some external keyboards has a delay; either hold the chord to activate or install [Karabiner](https://karabiner-elements.pqrs.org/) to remove the delay. In this position, **Shift easily capitalizes any letter on either side of the keyboard**. Backspace, Space, and Delete – **all basic text keys are assigned to the right thumb**. They are ordered chronologically in the direction they manipulate text. The lack of Tab/Enter keys is explained in the [Control Key Chords section](#control-key-chords).
+The thumbs are strong and less prone to fatigue, so **common actions are moved away from the pinkies**. On Mac, Caps Lock on some external keyboards has a delay; either hold the chord to activate or install [Karabiner](https://karabiner-elements.pqrs.org/) to remove the delay. In this position, **Shift easily capitalizes any letter on either side of the keyboard**. Backspace, Space, and Delete – **all basic text keys are assigned to the right thumb**. They are ordered chronologically in the direction they manipulate text. The lack of Tab/Enter keys is explained in the [Control Key Chords section](#control-key-chords).
 
 ### Media Keys
 ![chordic-media-keys](./07-media-keys.png)
