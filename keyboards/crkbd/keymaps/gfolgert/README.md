@@ -49,7 +49,7 @@ Chords, also known as combos or macros, are **multiple keys pressed together tha
 * **The learning curve** – there will be chord memorization, but they are designed to be memorable.
 * **The “L” key is moved** – it takes getting used to. Read why it's been moved in the [“QWERTY” section](#qwerty-default).
 * **Accidental letters** – if a chord’s keys aren’t pressed together, the result may be individual characters rather than the intended chord.
-* **Accidental chords** – there are many letter pairs that appear within words. In that last sentence alone, “E” and “R” appeared together 4 times. This layout avoids using E+R as a chord and many other commonly paired letters so that typing a word with “E-R” doesn’t activate a chord’s action. This issue has not been a problem for me.
+* **Accidental chords** – there are many letter pairs that appear within words. In that last sentence alone, “E” and “R” appeared together 4 times. This layout avoids using E+R as a chord and many other commonly paired letters so that quickly typing a word with “E-R” doesn’t activate a chord’s action. This issue has not been a problem for me.
 * **Lighter keyboard switches** - recommended for chording multiple keys at a time, I use 50g.
 * **An external trackball is necessary for mouse directional keys** – read more in the [“Mouse Chords” section](#mouse-chords).
 * **Keyboard layouts are highly personal** – I don’t expect this to work for everyone. Experiment! 
