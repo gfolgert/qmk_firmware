@@ -47,7 +47,7 @@ On standard keyboards, many keys require reaching, like the number keys, symbols
 Chords, also known as combos or macros, are **multiple keys pressed together that result in a new action**. Chording is used in stenography and feels similar to playing chords on a piano.
 ### Considerations
 * **The learning curve** – there will be chord memorization, but they are designed to be memorable.
-* **The “L” key is moved** – it takes getting used to. Read why it's been moved in the [“QWERTY” section](#qwerty-default).
+* **The “L” key is moved** – it takes getting used to. Read why it's been moved in the [“Arrow Keys” section](#arrow-keys).
 * **Accidental letters** – if a chord’s keys aren’t pressed together, the result may be individual characters rather than the intended chord.
 * **Accidental chords** – there are many letter pairs that appear within words. In that last sentence alone, “E” and “R” appeared together 4 times. This layout avoids using E+R as a chord and many other commonly paired letters so that quickly typing a word with “E-R” doesn’t activate a chord’s action.
 * **Lighter keyboard switches** - recommended for chording multiple keys at a time, I use 50g.
@@ -58,7 +58,7 @@ Chords, also known as combos or macros, are **multiple keys pressed together tha
 ## Base Layout
 ### Arrow Keys
 ![chordic-arrow-keys](./02-arrow-keys.png)
-**Arrows are used often and placed on the base layer**. This layout also makes the **arrow keys easy to be used with modifiers**. While I’ve seen the single-row DDR-style positioning of arrows (←↓↑→), the **inverted-T arrow key configuration is more intuitive**. The downside is that the “L” key is moved one space to its right.
+**Arrows are used often and placed on the base layer**. This layout also makes the **arrow keys easy to be used with modifiers**. While I’ve seen the single-row DDR-style positioning of arrows (←↓↑→), the **inverted-T arrow key configuration is more intuitive**. The downside is that the “L” key is moved one space to its right. Read more about why it's been moved in the [“QWERTY” section](#qwerty-default)
 
 
 ### QWERTY (Default)
