@@ -1,12 +1,51 @@
 # Chordic Keyboard Layout (42-Key Corne)
-### _A chord-heavy layout built for instantaneousness._
+### _A chord-heavy layout built for instantaneousness_
 
 ![chordic-layout-full](./01-chordic-layout-full.png)
 
 _**Summary**: This layout heavily relies on **chording** for symbols and actions. All letters, symbols, arrow keys, media keys, and modifiers are **instantaneous** without the need for layers, hold activation, or double taps, making this layout fast and friendly for **software keyboard shortcuts and passwords**. Chord positions are intuitive and created with **mnemonics** in mind. Layers are only reserved for number keys and function keys._
 
-### Considerations
+-------------------
+|**Content**      |
+|-----------------|
 
+1. [Introduction](#introduction)
+   - [What is a Chord?](#what-is-a-chord)
+   - [Why Only a 42-Key, 40% Keyboard?](#why-only-a-42-key-40-keyboard)
+   - [Considerations](#considerations)
+2. [Base Layout](#base-layout)
+   - [Arrow Keys](#arrow-keys)
+   - [QWERTY](#qwerty-default)
+   - [Dvorak, Colemak, & Workman](#dvorak-colemak--workman-optional)
+   - [Modifier Keys](#modifier-keys)
+   - [Thumb Clusters](#thumb-clusters)
+   - [Media Keys](#media-keys)
+3. [Layers](#layers)
+   - [Number Layer](#number-layer)
+   - [Function Key Layer](#function-key-layer)
+4. [Symbol Chords](#symbol-chords)
+   - [Common Symbols](#common-symbols)
+   - [Basic Math Symbols](#basic-math-symbols)
+   - [Parentheses](#parentheses)
+   - [Shapes](#shapes)
+   - [Intonation](#intonation)
+   - [Association](#association)
+5. [Action Chords](#action-chords)
+   - [Common Actions](#common-actions)
+   - [Navigation Chords](#navigation-chords)
+   - [Additional Media Chords](#additional-media-chords)
+   - [Mouse Chords](#mouse-chords)
+   - [Misc Chords](#misc-chords)
+6. [Conclusion](#conclusion)
+7. [Resources](#resources)
+
+------
+## Introduction
+### What is a Chord?
+Chords, also known as combos or macros, are **multiple keys pressed together that result in a new action**. Chording is used in stenography and feels similar to playing chords on a piano.
+### Why Only a 42-Key, 40% Keyboard?
+On standard keyboards, many keys require reaching, like the number keys, symbols, etc. **A smaller keyboard reduces finger movement and can greatly increase ergonomics**. The tradeoff to less keys is generally more complicated usability – the Chordic layout tries to find the sweet spot.
+### Considerations
 * **The learning curve** for memorizing the different chords exists, but are designed to be memorable.
 * **The “L” key has moved** and takes getting used to. Read why in the [“QWERTY” section](#qwerty-default).
 * **Accidental letters** – if a chord’s keys aren’t pressed together, the result may be individual characters rather than the intended chord.
@@ -16,17 +55,11 @@ _**Summary**: This layout heavily relies on **chording** for symbols and actions
 * **Keyboard layouts are highly personal**, I don’t expect this to work for everyone. Experiment! 
 
 ------
-## Introduction
-### What is a Chord?
-Chords, also known as combos or macros, are **multiple keys pressed together that result in a new action**. Chording is used in stenography and feels similar to playing chords on a piano.
-### Why Only a 42-Key, 40% Keyboard?
-On standard keyboards, many keys require reaching, like the number keys, symbols, etc. **A smaller keyboard reduces finger movement and can greatly increase ergonomics**. The tradeoff to less keys is generally more complicated usability – the Chordic layout tries to find the sweet spot.
-
-------
 ## Base Layout
 ### Arrow Keys
 ![chordic-arrow-keys](./02-arrow-keys.png)
 **Arrows are used often and placed on the base layer**. This layout also makes the **arrow keys easy to be used with modifiers**. While I’ve seen the single-row DDR-style positioning of arrows (←↓↑→), the **inverted-T arrow configuration is more intuitive**. The downside is that the “L” key is moved one space to its right.
+
 
 ### QWERTY (Default)
 ![chordic-qwerty](./03-QWERTY.png)
