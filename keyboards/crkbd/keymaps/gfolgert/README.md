@@ -10,8 +10,8 @@ _**Summary**: This layout heavily relies on **chording** for symbols and actions
 |-----------------|
 
 1. [Introduction](#introduction)
-   - [What is a Chord?](#what-is-a-chord)
    - [Why Only a 42-Key, 40% Keyboard?](#why-only-a-42-key-40-keyboard)
+   - [What is a Chord?](#what-is-a-chord)
    - [Considerations](#considerations)
 2. [Base Layout](#base-layout)
    - [Arrow Keys](#arrow-keys)
@@ -41,10 +41,10 @@ _**Summary**: This layout heavily relies on **chording** for symbols and actions
 
 ------
 ## Introduction
-### What is a Chord?
-Chords, also known as combos or macros, are **multiple keys pressed together that result in a new action**. Chording is used in stenography and feels similar to playing chords on a piano.
 ### Why Only a 42-Key, 40% Keyboard?
 On standard keyboards, many keys require reaching, like the number keys, symbols, etc. **A smaller keyboard reduces finger movement and can greatly increase ergonomics**. The tradeoff to having less keys is generally more complicated usability – the Chordic layout tries to find the sweet spot.
+### What is a Chord?
+Chords, also known as combos or macros, are **multiple keys pressed together that result in a new action**. Chording is used in stenography and feels similar to playing chords on a piano.
 ### Considerations
 * **The learning curve** – memorizing the different chords exists, but are designed to be memorable.
 * **The “L” key has moved** – it takes getting used to. Read why in the [“QWERTY” section](#qwerty-default).
