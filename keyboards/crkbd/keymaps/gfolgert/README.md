@@ -135,7 +135,7 @@ When addressing someone, you can use the **At Sign** or point at the person – 
 
 ### Navigation Chords
 ![chordic-navigation-chords](./17-navigation-chords.png)
-While **Home** and **End** are usually stacked vertically, these chords are horizontal to eachother since they trigger the cursor to jump left/right. End chord could be triggered with words like “P-O-I-nt” typed quickly. **Page Up** and **Page Down** chords neighbor Scroll Up and Down chords in the [“Mouse Chords” section](#mouse-chords). Activating **Insert**’s “overtype” mode is similar to combining the actions of Space and Delete.
+While **Home** and **End** are usually stacked vertically on full-size keyboards, these chords are horizontal to eachother since they trigger the cursor to jump left/right. End chord could be triggered with words like “P-O-I-nt” typed quickly. **Page Up** and **Page Down** chords neighbor Scroll Up and Down chords in the [“Mouse Chords” section](#mouse-chords). Activating **Insert**’s “overtype” mode is similar to combining the actions of Space and Delete.
 
 ### Additional Media Chords
 ![chordic-additional-media-chords](./18-additional-media-chords.png)
