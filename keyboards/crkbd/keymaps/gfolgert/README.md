@@ -172,5 +172,5 @@ Feel free to [buy me a beverage](https://www.buymeacoffee.com/gfolgert), it woul
 * [QMK Configurator](https://config.qmk.fm/#/planck/rev6/LAYOUT_ortho_4x12) – An online tool for easily creating firmware files for QMK keyboards.
 * [QMK Toolbox](https://github.com/qmk/qmk_toolbox) – Software that flashes firmware onto your keyboard.
 * [QMK Configurator – Test](https://config.qmk.fm/#/test) – Double check all characters are working properly.
-* [Macro Generator](https://codepen.io/mvaneijgen/full/LYEVQXp) | QMK – Type in the chord you want, this spits out the code needed. Saved me a loads of time.
+* [Macro Generator for QMK](https://codepen.io/mvaneijgen/full/LYEVQXp) – Type in the chord you want, this spits out the code needed. Saved me a loads of time.
 * [QMK Documentation](https://docs.qmk.fm/#/) – Great resource for learning about the capabilities of QMK.
