@@ -105,7 +105,7 @@ _All symbols are chorded with the right-hand, freeing the left-hand to be used w
 
 ### Basic Math Symbols
 ![chordic-basic-math-symbols](./11-basic-math-symbols.png)
-**Equals** and **Minus** are commonly used as increase/decrease shortcuts, so stacking them feels natural. Quickly typing words like “b-U-Y” may activate the Equals chord. **Plus** chord is the Minus chord with an added key. **Underscore** chord is placed below Minus since its character appears as a lowered Minus. Underscore could be activated with words like “da-M-N.”
+**Equals** and **Minus** are commonly used as increase/decrease shortcuts, so stacking them feels natural. Quickly typing words like “b-U-Y” may activate the Equals chord. **Plus** chord is the Minus chord with an added key. **Underscore** chord is placed below Minus since its character appears as a lowered Minus. Underscore may be activated when words like “da-M-N” are typed quickly.
 
 ### Parentheses
 _All parentheses chords are paired next to each other. The most common regular parentheses are placed on the home row_.
