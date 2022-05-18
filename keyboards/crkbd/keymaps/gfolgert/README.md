@@ -160,7 +160,7 @@ Remember, layouts are highly personal – what works for me may not for you. I e
 
 If you have a Corne keyboard (aka the crkbd) and want to give this a go, [here are the keymap files](./keymaps) for download to be used with QMK, or [the compiled .hex file](./crkbd_rev1_chordic.hex) ready to be flashed onto your Corne keyboard with QMK Toolbox. The above links have the left side of the keyboard acting as the parent to the right side.
 
-Feel free to [buy me a beverage](https://www.buymeacoffee.com/gfolgert), it would be greatly appreciated. Any donations will likely go right back into supporting the keyboard-enthusiast community (as well as my own keyboard addiction). I would like to make this into a video if people are interested. Feel free to reach out if you have any comments, questions, or concerns; all feedback is welcome!
+I would like to make this into a video if people are interested. Feel free to reach out if you have any comments, questions, or concerns; all feedback is welcome and highly encouraged! Even if I get a message showing a single person made it this far, it'd be extremely satisfying to know I hadn't written all this for just an empty void 😁👍 Feel free to [buy me a beverage](https://www.buymeacoffee.com/gfolgert), it would be greatly appreciated. Any donations will likely go right back into helping support the keyboard-enthusiast community (as well as my own keyboard addiction). Thanks for reading!
 
 ------
 ## Resources
