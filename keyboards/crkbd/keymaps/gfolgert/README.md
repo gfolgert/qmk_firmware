@@ -125,7 +125,7 @@ Words with an **Exclamation Point** drop in emphasis on the final syllable – t
 _These chords create an association with how a symbol is used or the position of a previously established chord_.
 ![chordic-association](./15-association.png)
 
-When addressing someone, you can use the **At Sign** or point at the person – this chord makes your right hand point at the person you’re addressing. An **Asterisk** is used for footnotes at the bottom of a page – this chord uses the bottom row, where a footnote would be. The **Ampersand** uses the same chord as Plus, only with one less letter. Words like “an-K-H” may activate this chord. The **Hashtag** symbol looks like an Equals sign with two vertical lines – so, the Hashtag chord is made up of the Equals chord and the letter “I,” a vertical line. 
+When addressing someone, you can use the **At Sign** or point at the person – this chord makes your right hand point at the person you’re addressing. An **Asterisk** is used for footnotes at the bottom of a page – this chord uses the bottom row, where a footnote would be. The **Ampersand** uses the same chord as Plus (both symbols can mean "and"), only with one less letter. Words like “an-K-H” may activate this chord. The **Hashtag** symbol looks like an Equals sign with two vertical lines – so, the Hashtag chord is made up of the Equals chord and the letter “I,” a vertical line. 
 
 ------
 ## Action Chords
