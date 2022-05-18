@@ -163,7 +163,7 @@ If you have a Corne keyboard (aka the crkbd) and want to give this a go, [here a
 Feel free to [buy me a beverage](https://www.buymeacoffee.com/gfolgert), it would be greatly appreciated. Any donations will likely go right back into supporting the keyboard-enthusiast community, as well as my own keyboard addiction.
 
 ------
-## Resources
+## Links to Helpful Things
 * [r/ErgoMechKeyboards](https://www.reddit.com/r/ErgoMechKeyboards/)
 * [Boardsource.xyz](https://boardsource.xyz/) – [Corne keyboard](https://boardsource.xyz/store/5ecc0f81eee64242946c988f) (I have this one), Corne low-profile keyboard.
 * [Ben Vallack's 'Exploring Usability' YT playlist](https://www.youtube.com/watch?v=WA_GUYS8UJg&list=PLCZYyvXAdQpvysng5wxGkrnIoFtvPibXM) – Wonderful videos about split keyboards.
