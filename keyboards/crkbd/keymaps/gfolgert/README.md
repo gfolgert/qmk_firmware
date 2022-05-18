@@ -8,11 +8,11 @@ _**Summary**: This layout heavily relies on **chording** for symbols and actions
 
 
 * **The learning curve** for memorizing the different chords exists, but are designed to be memorable.
-* **The “L” key has moved** and takes getting used to. Read why in the “QWERTY” sections.
-* **Accidental letters – if a chord’s keys aren’t pressed together, the result may be individual characters rather than the intended chord.
+* **The “L” key has moved** and takes getting used to. Read why in the [“QWERTY” section](#qwerty-default).
+* **Accidental letters** – if a chord’s keys aren’t pressed together, the result may be individual characters rather than the intended chord.
 * **Accidental chords** – there are many letter pairs that appear within words. In that last sentence alone, “E” and “R” appeared together 4 times. This layout avoids using E-R as a chord and many other commonly paired letters so that typing a word with “E-R” doesn’t activate a chord’s action. This issue has not been a problem for me.
 * **Lighter keyboard switches** are recommended for chording multiple keys at a time, I use 50g.
-* **An external trackball is necessary for mouse directional keys. Read more in the “Mouse Keys” section.
+* **An external trackball is necessary for mouse directional keys.** Read more in the [“Mouse Chords” section](#mouse-chords).
 * **Keyboard layouts are highly personal**, I don’t expect this to work for everyone. Experiment! 
 
 ------
@@ -42,15 +42,15 @@ On standard keyboards, many keys require reaching, like the number keys, symbols
 
 ### Modifier Keys
 
-The modifier column is **ordered from most accessible/common keys from bottom to top**. Default layout is Mac. To swap to the PC layout, go to the “Misc Chords” section. **Modifiers are instantaneous**. Other layouts require a key to be held to change it into a modifier, but this adds a delay and can create misfires. **Also, this layout parallels how software keyboard shortcuts are written** – modifiers on the left, other key(s) on the right. 
+The modifier column is **ordered from most accessible/common keys from bottom to top**. Default layout is Mac. To swap to the PC layout, go to the [“Misc Chords” section](#misc-chords). **Modifiers are instantaneous**. Other layouts require a key to be held to change it into a modifier, but this adds a delay and can create misfires. **Also, this layout parallels how software keyboard shortcuts are written** – modifiers on the left, other key(s) on the right. 
 
 ### Thumb Clusters
 
-The thumbs are stronger, so **common actions are moved away from weak pinkies**. On Mac, Caps Lock on some external keyboards has a delay; either hold the chord to activate or install [Karabiner](https://karabiner-elements.pqrs.org/) to remove the delay. In this position, **Shift easily capitalizes any letter on either side of the keyboard**. Backspace, Space, and Delete – **all basic text keys are assigned to the right thumb**. They are ordered chronologically in the direction they manipulate text. The lack of Tab/Enter keys is explained in the “Control Key Chords” section.
+The thumbs are stronger, so **common actions are moved away from weak pinkies**. On Mac, Caps Lock on some external keyboards has a delay; either hold the chord to activate or install [Karabiner](https://karabiner-elements.pqrs.org/) to remove the delay. In this position, **Shift easily capitalizes any letter on either side of the keyboard**. Backspace, Space, and Delete – **all basic text keys are assigned to the right thumb**. They are ordered chronologically in the direction they manipulate text. The lack of Tab/Enter keys is explained in the [“Control Key Chords” section](#control-key-chords).
 
 ### Media Keys
 
-**This layout prioritizes control over audio**. The chords for Next, Previous, and Mute buttons are within the “Additional media keys” section.
+**This layout prioritizes control over audio**. The chords for Next, Previous, and Mute buttons are within the [“Additional Media Chords” section](#additional-media-chords).
 
 ------
 ## Layers
@@ -66,7 +66,7 @@ And that’s it for layers!
 
 ------
 
-#### Important Note: If you’re just interested in reading the absolute basics to get started, only read the “Common Symbols” and “Common Actions” sections, then jump down to “Conclusion” 👍
+#### Important Note: If you’re just interested in reading the absolute basics to get started, only read the [“Common Symbols” section](#common-symbols) and [“Common Actions” section](#common-actions), then jump down to “Conclusion” 👍
 
 ------
 ## Symbol Chords
@@ -103,7 +103,7 @@ When addressing someone, one can use the **At Sign** or point at the person – 
 
 ### Navigation Chords
 
-While **Home** and **End** are usually stacked vertically, these chords are horizontal since they trigger the cursor to jump left/right. End chord could be triggered with words like “P-O-I-nt.” **Page Up** and **Page Down** chords neighbor Scroll Up and Down chords in the “Mouse Chords” section. Activating **Insert**’s “overtype” mode is similar to combining the actions of Space and Delete.
+While **Home** and **End** are usually stacked vertically, these chords are horizontal since they trigger the cursor to jump left/right. End chord could be triggered with words like “P-O-I-nt.” **Page Up** and **Page Down** chords neighbor Scroll Up and Down chords in the [“Mouse Chords” section](#mouse-chords). Activating **Insert**’s “overtype” mode is similar to combining the actions of Space and Delete.
 
 ### Additional Media Chords
 
@@ -119,7 +119,7 @@ _This section requires an external trackball, as the directional mouse keys take
 
 ### Misc Chords
 
-**Reset** is visually represented by the line dipping and rising. Which side you use depends on which side of the keyboard is the parent. **Swap To Mac** is M+A+C, **Swap To Windows** is [P+C+M+R](https://en.wikipedia.org/wiki/PC_Master_Race), the only chords within the Chordic layout specific to key placements on QWERTY. The chord P+C isn’t used because quickly typing “P-C” could accidentally activate this chord. Default layout is Mac. Refer to Modifiers section for more info.
+**Reset** is visually represented by the line dipping and rising. Which side you use depends on which side of the keyboard is the parent. **Swap To Mac** is M+A+C, **Swap To Windows** is [P+C+M+R](https://en.wikipedia.org/wiki/PC_Master_Race), the only chords within the Chordic layout specific to key placements on QWERTY. The chord P+C isn’t used because quickly typing “P-C” could accidentally activate this chord. Default layout is Mac. Refer to [Modifier Keys section](#modifier-keys) for more info.
 
 ------
 ## Conclusion
