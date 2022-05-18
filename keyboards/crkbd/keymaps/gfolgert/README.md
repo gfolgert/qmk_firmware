@@ -3,7 +3,7 @@
 
 ![chordic-layout-full](./images/01-chordic-layout-full.png)
 
-_**Summary**: This layout heavily relies on **chording** for symbols and actions. All letters, symbols, arrow keys, media keys, and modifiers are **instantaneous** without the need for layers, hold activation, or double taps, making this layout fast and friendly for **software keyboard shortcuts and passwords**. Chord positions are intuitive and created with **mnemonics** in mind. Layers are only reserved for number keys and function keys._
+_**Summary**: This layout heavily relies on **chording** for symbols and actions. All letters, symbols, arrow keys, media keys, and modifiers are **instantaneous** without the need for layers, hold activation, or double taps, making this layout fast and friendly for **software keyboard shortcuts** and **password entry**. Chord positions are intuitive and created with **mnemonics** in mind. Layers are only reserved for number keys and function keys._
 
 -------------------
 |**Content**      |
