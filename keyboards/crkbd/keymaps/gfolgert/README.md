@@ -88,11 +88,11 @@ The thumbs are strong and less prone to fatigue, so **common actions are moved a
 ## Layers
 ### Number Layer
 ![chordic-numbers-layer](./08-numbers-layer.png)
-The number layer is activated by holding D+F. On the right side, the numbers are **ordered chronologically, top-down** with 0 on the spacebar. **Double-tap D+F to activate this layer without the need to hold D+F**. Hitting Escape returns to base layer. For keyboard shortcuts that include a number, **this layer is also activated with W+D so modifiers are more comfortably within reach**.
+The number layer is activated by holding or double-tapping "D+F." Double-tapping enters the layer without the need for holding, and Escape returns to base layer. On the right side, the numbers are **ordered chronologically, top-down** with 0 on the spacebar. For keyboard shortcuts that include a number, **this layer is also activated with "W+D" so modifiers are more comfortably within reach**.
 
 ### Function Key Layer
 ![chordic-function-key-layer](./09-function-key-layer.png)
-Access F1-12 by holding Q+W. Similar to the numbers, function keys are **ordered chronologically, top-down**. Q+W is placed so function keys can be easily paired with modifiers for keyboard shortcuts. Double-tap Q+W to activate this layer without the need to hold Q+W, Escape exits.
+Access F1-12 by holding (or double-tapping) "Q+W," which is also placed so function keys can be easily paired with modifiers. Similar to the numbers, function keys are **ordered chronologically, top-down**.
 
 And that’s it for layers!
 
