@@ -98,7 +98,7 @@ And that’s it for layers!
 
 ------
 ## Symbol Chords
-_All symbols are chorded with the right-hand, freeing the left-hand for modifiers. All symbols can be chorded from within the Number layer_.
+_All symbols are chorded with the right-hand, freeing the left-hand to be used with modifiers. All symbols can be chorded from within the Number layer_.
 ### Common Symbols
 ![chordic-common-symbols](./10-common-symbols.png)
 **Period** and **Comma** chords share the general placement of their QWERTY counterparts but without leaving the home row. **Colon** and **Semicolon** are the same Period/Comma chords, but with “J” also pressed. **Apostrophe** and **Quote** are each the shape of their symbol.
