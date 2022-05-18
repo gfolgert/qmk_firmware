@@ -44,7 +44,7 @@ _**Summary**: This layout heavily relies on **chording** for symbols and actions
 ### Why Only a 42-Key, 40% Keyboard?
 On standard keyboards, many keys require reaching, like the number keys, symbols, etc. **A smaller keyboard reduces finger movement and can greatly increase ergonomics**. The tradeoff to having less keys is generally more complicated usability – the Chordic layout tries to find the sweet spot.
 ### What is a Chord?
-Chords, also known as combos or macros, are **multiple keys pressed together that result in a new action**. Chording is used in stenography and feels similar to playing chords on a piano.
+Chords, also known as combos, are **multiple keys pressed together that result in a new action**. Chording is used in stenography and feels similar to playing chords on a piano.
 ### Considerations
 * **The learning curve** – there will be chord memorization, but they are designed to be memorable. If you’re just interested in the absolute basics to get started, just read about the [Base Layout](#base-layout), [Layers](#layers), [Common Symbols](#common-symbols), and [Common Actions](#common-actions).
 * **The “L” key is moved** – it takes getting used to. Read why it's been moved in the [Arrow Keys section](#arrow-keys).
