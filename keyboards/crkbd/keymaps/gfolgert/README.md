@@ -70,7 +70,7 @@ I use QWERTY because it’s what I’m used to, but there are **three reasons th
 
 ### Dvorak, Colemak, & Workman (Optional)
 ![chordic-dvorak-colemak-workman](./04-dvorak-colemak-workman.png)
-**All chords in the Chordic layout are key-position based rather than letter-based. Feel free to try to swap in non-QWERTY layouts**. Within the popular alternative layouts, I’ve moved one letter each to prioritize the grouped arrow keys. The Chordic layout is built around avoiding accidental chords within QWERTY only – **non-QWERTY layouts are untested** and may include chords that fall on common letters.
+**All chords in the Chordic layout are key-position based rather than letter-based. Feel free to try to swap in non-QWERTY layouts**. Within the popular alternative layouts, I’ve moved one letter each to prioritize the grouped arrow keys. The Chordic layout is built around avoiding accidental chords within QWERTY only – **non-QWERTY layouts are untested** and may include chords that fall on common letters, potentially causing more chords accidently firing rather than the intended words being typed. 
 
 ### Modifier Keys
 ![chordic-modifier-keys](./05-modifier-keys.png)
