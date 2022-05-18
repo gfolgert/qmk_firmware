@@ -63,7 +63,7 @@ Chords, also known as combos or macros, are **multiple keys pressed together tha
 
 ### QWERTY (Default)
 ![chordic-qwerty](./03-QWERTY.png)
-I user QWERTY because it’s what I’m used to, but there are **three reasons the Chordic layout works well with QWERTY + arrow keys**:
+I use QWERTY because it’s what I’m used to, but there are **three reasons the Chordic layout works well with QWERTY + arrow keys**:
 1. **The chords chosen within this Chordic layout avoid common letter pairings specific to the QWERTY layout**. A chord made up of letters that are common within words (like “A-S”), may be accidentally activated when typing a word quickly (words like “f-A-S-t”), which is why Chordic does not use the chord A+S. 
 2. **Home row chords benefit from QWERTY’s less common keys on its home row**. Chords positioned on or near the home row are more convenient – but the more common letters on the home row, the higher the potential for words misfiring as chords.
 
