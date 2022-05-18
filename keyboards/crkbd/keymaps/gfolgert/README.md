@@ -46,25 +46,25 @@ On standard keyboards, many keys require reaching, like the number keys, symbols
 ### What is a Chord?
 Chords, also known as combos or macros, are **multiple keys pressed together that result in a new action**. Chording is used in stenography and feels similar to playing chords on a piano.
 ### Considerations
-* **The learning curve** – there will be chord memorization, but they are designed to be memorable.
-* **The “L” key is moved** – it takes getting used to. Read why it's been moved in the [“Arrow Keys” section](#arrow-keys).
+* **The learning curve** – there will be chord memorization, but they are designed to be memorable. If you’re just interested in the absolute basics to get started, just read about the [Base Layout](#base-layout), [Layers](#layers), [Common Symbols](#common-symbols), and [Common Actions](#common-actions).
+* **The “L” key is moved** – it takes getting used to. Read why it's been moved in the [Arrow Keys section](#arrow-keys).
 * **Accidental letters** – if a chord’s keys aren’t pressed together, the result may be individual characters rather than the intended chord.
 * **Accidental chords** – if a word is being typed quickly, a chord could potentially be triggered. Chords have been chosen to avoid this problem, as mentioned in the [QWERTY section](#qwerty-default).
 * **Lighter keyboard switches** - recommended for chording multiple keys at a time, I use 50g.
-* **An external trackball is necessary for mouse directional keys** – read more in the [“Mouse Chords” section](#mouse-chords).
+* **An external trackball is necessary for mouse directional keys** – read more in the [Mouse Chords section](#mouse-chords).
 * **Keyboard layouts are highly personal** – I don’t expect this to work for everyone. Experiment! 
 
 ------
 ## Base Layout
 ### Arrow Keys
 ![chordic-arrow-keys](./02-arrow-keys.png)
-**Arrows are used often and placed on the base layer**. This layout also makes the **arrow keys easy to be used with modifiers**. While I’ve seen the single-row DDR-style positioning of arrows (←↓↑→), the **inverted-T arrow key configuration is more intuitive**. The downside is that the “L” key is moved one space to its right. Read more about why it's been moved in the [“QWERTY” section](#qwerty-default)
+**Arrows are used often and placed on the base layer**. This layout also makes the **arrow keys easy to be used with modifiers**. While I’ve seen the single-row DDR-style positioning of arrows (←↓↑→), the **inverted-T arrow key configuration is more intuitive**. The downside is that the “L” key is moved one space to its right. Read more about why it's been moved in the [QWERTY section](#qwerty-default)
 
 
 ### QWERTY (Default)
 ![chordic-qwerty](./03-QWERTY.png)
 I user QWERTY because it’s what I’m used to, but there are **three reasons the Chordic layout works well with QWERTY + arrow keys**:
-1. **The chords chosen within this Chordic layout avoid common letter pairings specific to the QWERTY layout**. A chord made up of letters that are common within words (like “A-S”), may be accidentally activated when typing a word quickly (words like “f-A-S-t”), which is why Chordic does not use the chord “A-S.” 
+1. **The chords chosen within this Chordic layout avoid common letter pairings specific to the QWERTY layout**. A chord made up of letters that are common within words (like “A-S”), may be accidentally activated when typing a word quickly (words like “f-A-S-t”), which is why Chordic does not use the chord A+S. 
 2. **Home row chords benefit from QWERTY’s less common keys on its home row**. Chords positioned on or near the home row are more convenient – but the more common letters on the home row, the higher the potential for words misfiring as chords.
 
 3. **The Up key on the right-hand home row benefits chording**. A chord that utilizes an arrow key and a letter key is far less likely to misfire since these two types of keys are not generally typed in succession. The Up key can be easily paired with letters to make safe chords. 
@@ -75,15 +75,15 @@ I user QWERTY because it’s what I’m used to, but there are **three reasons t
 
 ### Modifier Keys
 ![chordic-modifier-keys](./05-modifier-keys.png)
-The modifier column is **ordered from most accessible/common keys from bottom to top**. Default layout is Mac. To swap to the PC layout, go to the [“Misc Chords” section](#misc-chords). **Modifiers are instantaneous**. Other layouts require a key to be held to change it into a modifier, but this adds a delay and can create misfires. **Also, this layout parallels how software keyboard shortcuts are written** – modifiers on the left, other key(s) on the right. 
+The modifier column is **ordered from most accessible/common keys from bottom to top**. Default layout is Mac. To swap to the PC layout, go to the [Misc Chords section](#misc-chords). **Modifiers are instantaneous**. Other layouts require a key to be held to change it into a modifier, but this adds a delay and can create misfires. **Also, this layout parallels how software keyboard shortcuts are written** – modifiers on the left, other key(s) on the right. 
 
 ### Thumb Clusters
 ![chordic-thumb-clusters](./06-thumb-clusters.png)
-The thumbs are stronger, so **common actions are moved away from weak pinkies**. On Mac, Caps Lock on some external keyboards has a delay; either hold the chord to activate or install [Karabiner](https://karabiner-elements.pqrs.org/) to remove the delay. In this position, **Shift easily capitalizes any letter on either side of the keyboard**. Backspace, Space, and Delete – **all basic text keys are assigned to the right thumb**. They are ordered chronologically in the direction they manipulate text. The lack of Tab/Enter keys is explained in the [“Control Key Chords” section](#control-key-chords).
+The thumbs are stronger, so **common actions are moved away from weak pinkies**. On Mac, Caps Lock on some external keyboards has a delay; either hold the chord to activate or install [Karabiner](https://karabiner-elements.pqrs.org/) to remove the delay. In this position, **Shift easily capitalizes any letter on either side of the keyboard**. Backspace, Space, and Delete – **all basic text keys are assigned to the right thumb**. They are ordered chronologically in the direction they manipulate text. The lack of Tab/Enter keys is explained in the [Control Key Chords section](#control-key-chords).
 
 ### Media Keys
 ![chordic-media-keys](./07-media-keys.png)
-**This layout prioritizes control over audio**. The chords for Next, Previous, and Mute buttons are within the [“Additional Media Chords” section](#additional-media-chords).
+**This layout prioritizes control over audio**. The chords for Next, Previous, and Mute buttons are within the [Additional Media Chords section](#additional-media-chords).
 
 ------
 ## Layers
@@ -98,10 +98,6 @@ Access F1-12 by holding Q+W. Similar to the numbers, function keys are **ordered
 And that’s it for layers!
 
 ------
-
-#### Important Note: If you’re just interested in reading the absolute basics to get started, only read the [“Common Symbols” section](#common-symbols) and [“Common Actions” section](#common-actions), then jump down to “Conclusion” 👍
-
-------
 ## Symbol Chords
 _All symbols are chorded with the right-hand, freeing the left-hand for modifiers. All symbols can be chorded from within the Number layer_.
 ### Common Symbols
@@ -111,7 +107,6 @@ _All symbols are chorded with the right-hand, freeing the left-hand for modifier
 ### Basic Math Symbols
 ![chordic-basic-math-symbols](./11-basic-math-symbols.png)
 **Equals** and **Minus** are commonly used as increase/decrease shortcuts, so stacking them feels natural. Typing words like “b-U-Y” quickly may activate the Equals chord. **Plus** chord is the Minus chord with an added key. **Underscore** chord is placed below Minus since its character appears as a lowered Minus. Underscore could be activated with words like “da-M-N.”
-
 
 ### Parentheses
 _All parentheses chords are paired next to each other. The most common regular parentheses are placed on the home row_.
