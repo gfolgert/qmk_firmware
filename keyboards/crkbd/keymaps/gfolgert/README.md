@@ -112,7 +112,7 @@ _All parentheses chords are paired next to each other. The most common regular p
 ![chordic-parentheses](./12-parentheses.png)
 
 ### Shapes
-_These chords reference the symbols’ shapes_.
+_These chords reference the symbol's individual shape_.
 ![chordic-shapes](./13-shapes.png)
 
 ### Intonation
