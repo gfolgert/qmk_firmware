@@ -66,7 +66,7 @@ Chords, also known as combos or macros, are **multiple keys pressed together tha
 I use QWERTY because it’s what I’m used to, but there are **three reasons the Chordic layout works well with QWERTY + arrow keys**:
 1. **The chords chosen within this Chordic layout avoid common letter pairings specific to the QWERTY layout**. A chord made up of letters that are common within words (like "A-S"), may be accidentally activated when typing a word quickly (words like "f-A-S-t"), which is why Chordic does not use the chord "A+S" or many other commonly paired letters. 
 2. **Home row chords benefit from QWERTY’s less common keys on its home row**. Chords positioned on or near the home row are more convenient – but the more common letters on the home row, the higher the potential for words misfiring as chords.
-3. **The Up key on the right-hand home row benefits chording**. A chord that utilizes an arrow key and a letter key is far less likely to accidently fire when typing since these two types of keys are not generally typed quickly in succession. The Up key can be easily paired with letters to make safe chords. 
+3. **The Up key on the right-hand home row benefits chording**. A chord that utilizes an arrow key and a letter key is far less likely to accidently fire when typing since these two types of keys are not generally typed quickly in succession. 
 
 ### Dvorak, Colemak, & Workman (Optional)
 ![chordic-dvorak-colemak-workman](./04-dvorak-colemak-workman.png)
