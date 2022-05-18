@@ -131,7 +131,7 @@ When addressing someone, you can use the **At Sign** or point at the person – 
 ## Action Chords
 ### Common Actions
 ![chordic-common-actions](./16-common-actions.png)
-**Tab** is conveniently placed, especially for application switching, but quickly typing “J-K” may activate Tab. **Enter**’s chord is similar to its position on  QWERTY but without leaving the home row. 
+**Tab** is conveniently placed, especially for application switching, but quickly typing “J-K” may activate Tab. **Enter**’s chord is similar to its position on  QWERTY but without the need to leave the home row. 
 
 ### Navigation Chords
 ![chordic-navigation-chords](./17-navigation-chords.png)
