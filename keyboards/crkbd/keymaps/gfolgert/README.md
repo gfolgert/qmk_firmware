@@ -154,9 +154,9 @@ _This section requires an external trackball, as the directional mouse keys take
 ------
 ## Conclusion
 
-And that’s Chordic! A chording-heavy layout that focuses on instantaneousness. 
+And that’s Chordic! A chording-heavy layout that focuses on instantaneousness. While there is a decent amount of chord memorization for symbols, my goal is that the learning process is as simple as it can be.
 
-Layouts are highly personal; what works for me may not for you. I encourage experimentation and tweaking!
+Remember, layouts are highly personal – what works for me may not for you. I encourage experimentation and tweaking!
 
 If you have a Corne keyboard (aka the crkbd) and want to give this a go, [here are the keymap files](https://drive.google.com/drive/folders/1fFPNvJiDUrYAS6E9FuKkzGjdH7ZOdLYQ) for download to be used with QMK, or [the compiled .hex file](https://drive.google.com/file/d/1oFlFQ3RSFimabYId-VHHeJsnoYEFJ21o/view) ready to be flashed onto your Corne keyboard with QMK Toolbox. The above links have the right side of the keyboard acting as the parent to the left side.
 
