@@ -74,7 +74,7 @@ I use QWERTY because it’s what I’m used to, but there are **three reasons th
 
 ### Modifier Keys
 ![chordic-modifier-keys](./05-modifier-keys.png)
-The modifier column is **ordered from most accessible/common keys from bottom to top**. Default layout is Mac. To swap to the PC layout, go to the [Misc Chords section](#misc-chords). **Modifiers are instantaneous**. Other layouts require a key to be held to change it into a modifier, but this adds a delay and can create misfires. **Also, this layout parallels how software keyboard shortcuts are written** – modifiers on the left, other key(s) on the right. 
+The modifier column is **ordered from most common keys from bottom to top** (most to least accessible). Default layout is Mac. To swap to the PC layout, go to the [Misc Chords section](#misc-chords). **Modifiers are instantaneous**. Other layouts require a key to be held to change it into a modifier, but this adds a delay and can create misfires. **Also, this layout parallels how software keyboard shortcuts are written** – modifiers on the left, other key(s) on the right. 
 
 ### Thumb Clusters
 ![chordic-thumb-clusters](./06-thumb-clusters.png)
