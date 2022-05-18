@@ -164,7 +164,7 @@ Feel free to [buy me a beverage](https://www.buymeacoffee.com/gfolgert), it woul
 
 ------
 ## Resources
-* [r/ErgoMechKeyboards](https://www.reddit.com/r/ErgoMechKeyboards/) - subreddit for ergonomic and weird keyboards
+* [r/ErgoMechKeyboards](https://www.reddit.com/r/ErgoMechKeyboards/) - subreddit for ergonomic and weird keyboards.
 * [Boardsource.xyz](https://boardsource.xyz/) – [Corne keyboard](https://boardsource.xyz/store/5ecc0f81eee64242946c988f) (I have this one), [Corne low-profile keyboard](https://boardsource.xyz/store/5f2efc462902de7151495057).
 * [Ben Vallack's 'Exploring Usability' YT playlist](https://www.youtube.com/watch?v=WA_GUYS8UJg&list=PLCZYyvXAdQpvysng5wxGkrnIoFtvPibXM) – wonderful videos about split keyboards.
 * [Designing a 36-key custom keyboard layout – Peter Jang](https://peterxjang.com/blog/designing-a-36-key-custom-keyboard-layout.html) – a solid 36-key layout with similar goals to mine, but with less emphasis on chording.
