@@ -58,7 +58,7 @@ Chords, also known as combos, are **multiple keys pressed together that result i
 ## Base Layout
 ### Arrow Keys
 ![chordic-arrow-keys](./images/02-arrow-keys.png)
-**Arrows are used often and placed on the base layer**. This layout also makes the **arrow keys easy to be used with modifiers**. While I’ve seen the single-row VIM-style (or DDR-style) positioning of arrows (←↓↑→), the **inverted-T arrow key configuration is more intuitive**. The downside is that the “L” key is moved one space to its right. Read more about why it's been moved in the [QWERTY section](#qwerty-default)
+**Arrows are used often and placed on the base layer**. This layout also makes the **arrow keys easy to be used with modifiers**. While I’ve seen the single-row Vim-style (or DDR-style) positioning of arrows (←↓↑→), the **inverted-T arrow key configuration is more intuitive**. The downside is that the “L” key is moved one space to its right. Read more about why it's been moved in the [QWERTY section](#qwerty-default)
 
 
 ### QWERTY (Default)
