@@ -149,7 +149,7 @@ _This section requires an external trackball, as the directional mouse keys take
 
 ### Misc Chords
 ![chordic-misc-chords](./21-misc-chords.png)
-**Reset** is visually represented by the line dipping and rising. Which side you use for reseting depends on which side of the keyboard is the parent. **Swap To Mac** is "M+A+C", **Swap To Windows** is ["P+C+M+R"](https://en.wikipedia.org/wiki/PC_Master_Race), the only chords within the Chordic layout specific to key placements on QWERTY. The chord "P+C" isn’t used because quickly typing “P-C” could accidentally activate this chord. Default layout is Mac. Refer to [Modifier Keys section](#modifier-keys) for more info.
+**Reset** is visually represented by the line dipping and rising. Which side you use for reseting depends on which side of the keyboard is the parent. **Swap To Mac** is "M+A+C", **Swap To Windows** is ["P+C+M+R"](https://en.wikipedia.org/wiki/PC_Master_Race), the only chords within the Chordic layout specific to key placements on QWERTY. The chord "P+C" isn’t used because quickly typing the letters “P-C” could accidentally activate this chord. Default layout is Mac – refer to [Modifier Keys section](#modifier-keys) for more info on what's being swapped.
 
 ------
 ## Conclusion
