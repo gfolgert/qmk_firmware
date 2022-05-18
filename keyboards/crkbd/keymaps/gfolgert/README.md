@@ -1,11 +1,11 @@
-# Chordic Keyboard Layout (42-Key)
+# Chordic Keyboard Layout (42-Key Corne)
 ### _A chord-heavy layout built for instantaneousness._
 
+![chordic-layout-full](./01-chordic-layout-full.png)
 
 _**Summary**: This layout heavily relies on **chording** for symbols and actions. All letters, symbols, arrow keys, media keys, and modifiers are **instantaneous** without the need for layers, hold activation, or double taps, making this layout fast and friendly for **software keyboard shortcuts and passwords**. Chord positions are intuitive and created with **mnemonics** in mind. Layers are only reserved for number keys and function keys._
 
 ### Considerations
-
 
 * **The learning curve** for memorizing the different chords exists, but are designed to be memorable.
 * **The “L” key has moved** and takes getting used to. Read why in the [“QWERTY” section](#qwerty-default).
@@ -24,17 +24,18 @@ On standard keyboards, many keys require reaching, like the number keys, symbols
 
 ------
 ## Base Layout
+![chordic-arrow-keys](./02-arrow-keys.png)
 ### Arrow Keys
 
 **Arrows are used often and placed on the base layer**. This layout also makes the **arrow keys easy to be used with modifiers**. While I’ve seen the single-row DDR-style positioning of arrows (←↓↑→), the **inverted-T arrow configuration is more intuitive**. The downside is that the “L” key is moved one space to its right.
 
 ### QWERTY (Default)
 
-* The main reason I use QWERTY is that it’s what I’m used to, but there are **three reasons the Chordic layout works well with QWERTY + arrow keys**:
-* **The chords chosen within this Chordic layout avoid common letter pairings specific to the QWERTY layout**. A chord made up of letters that are common within words (like “A-S”), may be accidentally activated when typing a word quickly (words like “f-A-S-t”), which is why Chordic does not use the chord “A-S.” 
-* **Home row chords benefit from QWERTY’s less common keys on its home row**. Chords positioned on or near the home row are more convenient – but the more common letters on the home row, the higher the potential for words misfiring as chords.
+The main reason I use QWERTY is that it’s what I’m used to, but there are **three reasons the Chordic layout works well with QWERTY + arrow keys**:
+1. **The chords chosen within this Chordic layout avoid common letter pairings specific to the QWERTY layout**. A chord made up of letters that are common within words (like “A-S”), may be accidentally activated when typing a word quickly (words like “f-A-S-t”), which is why Chordic does not use the chord “A-S.” 
+2. **Home row chords benefit from QWERTY’s less common keys on its home row**. Chords positioned on or near the home row are more convenient – but the more common letters on the home row, the higher the potential for words misfiring as chords.
 
-* **The Up key on the right-hand home row benefits chording**. A chord that utilizes an arrow key and a letter key is far less likely to misfire since these two types of keys are not generally typed in succession. The Up key can be easily paired with letters to make safe chords. 
+3. **The Up key on the right-hand home row benefits chording**. A chord that utilizes an arrow key and a letter key is far less likely to misfire since these two types of keys are not generally typed in succession. The Up key can be easily paired with letters to make safe chords. 
 
 ### Dvorak, Colemak, & Workman (Optional)
 
