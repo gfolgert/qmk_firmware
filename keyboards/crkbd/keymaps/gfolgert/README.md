@@ -145,7 +145,7 @@ While **Home** and **End** are usually stacked vertically on full-sized keyboard
 
 _This section requires an external trackball, as the directional mouse keys take too much time to operate and are too imprecise. I’m using the [Ploopy Nano Trackball](https://ploopy.co/nano-trackball/)_. 
 ![chordic-mouse-button-and-scroll](./20-mouse-button-and-scroll.png)
-**Mouse Buttons** are placed on the bottom row, where the trackball is comfortably accessible at the same time. **Scroll Up** and **Scroll Down** chords are one key position from Page Up/Down for quickly changing between slow and fast navigation. **Scroll Left** and **Scroll Right** physically rotate your hand to face the direction you want to be scrolling. The Scroll Left chord could trigger with words like “e-L-M.”
+**Mouse Buttons** are placed on the bottom row with the trackball below them, emulating the feel of a mouse. **Scroll Up** and **Scroll Down** chords are one key position from Page Up/Down for quickly changing between slow and fast navigation. **Scroll Left** and **Scroll Right** physically rotate your hand to face the direction you want to be scrolling. The Scroll Left chord could trigger with words like “e-L-M.”
 
 ### Misc Chords
 ![chordic-misc-chords](./21-misc-chords.png)
