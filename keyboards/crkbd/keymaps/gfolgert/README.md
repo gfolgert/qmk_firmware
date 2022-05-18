@@ -166,11 +166,11 @@ Feel free to [buy me a beverage](https://www.buymeacoffee.com/gfolgert), it woul
 ## Resources
 * [r/ErgoMechKeyboards](https://www.reddit.com/r/ErgoMechKeyboards/) - subreddit for ergonomic and weird keyboards
 * [Boardsource.xyz](https://boardsource.xyz/) – [Corne keyboard](https://boardsource.xyz/store/5ecc0f81eee64242946c988f) (I have this one), [Corne low-profile keyboard](https://boardsource.xyz/store/5f2efc462902de7151495057).
-* [Ben Vallack's 'Exploring Usability' YT playlist](https://www.youtube.com/watch?v=WA_GUYS8UJg&list=PLCZYyvXAdQpvysng5wxGkrnIoFtvPibXM) – Wonderful videos about split keyboards.
-* [Designing a 36-key custom keyboard layout – Peter Jang](https://peterxjang.com/blog/designing-a-36-key-custom-keyboard-layout.html) – A solid 36-key layout with similar goals to mine, but with less emphasis on chording.
-* [Markstos layout](https://github.com/markstos/qmk_firmware/blob/markstos/keyboards/crkbd/keymaps/markstos/README.md) – A solid 42-key layout.
-* [QMK Configurator](https://config.qmk.fm/#/planck/rev6/LAYOUT_ortho_4x12) – An online tool for easily creating firmware files for QMK keyboards.
-* [QMK Toolbox](https://github.com/qmk/qmk_toolbox) – Software that flashes firmware onto your keyboard.
-* [QMK Configurator – Test](https://config.qmk.fm/#/test) – Double check all characters are working properly.
-* [Macro Generator for QMK](https://codepen.io/mvaneijgen/full/LYEVQXp) – Type in the chord you want, this spits out the code needed. Saved me a loads of time.
-* [QMK Documentation](https://docs.qmk.fm/#/) – Great resource for learning about the capabilities of QMK.
+* [Ben Vallack's 'Exploring Usability' YT playlist](https://www.youtube.com/watch?v=WA_GUYS8UJg&list=PLCZYyvXAdQpvysng5wxGkrnIoFtvPibXM) – wonderful videos about split keyboards.
+* [Designing a 36-key custom keyboard layout – Peter Jang](https://peterxjang.com/blog/designing-a-36-key-custom-keyboard-layout.html) – a solid 36-key layout with similar goals to mine, but with less emphasis on chording.
+* [Markstos layout](https://github.com/markstos/qmk_firmware/blob/markstos/keyboards/crkbd/keymaps/markstos/README.md) – a 42-key layout.
+* [QMK Configurator](https://config.qmk.fm/#/planck/rev6/LAYOUT_ortho_4x12) – an online tool for easily creating firmware files for QMK keyboards.
+* [QMK Toolbox](https://github.com/qmk/qmk_toolbox) – software that flashes firmware onto your keyboard.
+* [QMK Configurator – Test](https://config.qmk.fm/#/test) – double check all characters are working properly.
+* [Macro Generator for QMK](https://codepen.io/mvaneijgen/full/LYEVQXp) – type in the chord you want, this spits out the code needed. Saved me a loads of time.
+* [QMK Documentation](https://docs.qmk.fm/#/) – great resource for learning about the capabilities of QMK.
